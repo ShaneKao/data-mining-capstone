@@ -1,0 +1,315 @@
+{
+ "name": "star: 1","color": "green",
+ "children": [
+  {"name": "Topic 1","color": "green", "children": [
+          
+    {"name": "chinese food","color": "green"},
+    {"name": "customer service","color": "green"},
+	{"name": "food good", "size": 4116,"color": "green"},
+	{"name": "didn't even", "size": 4116,"color": "green"},
+	{"name": "last time", "size": 4116,"color": "green"},
+	{"name": "even get", "size": 4116,"color": "green"},
+	{"name": "don't care", "size": 4116,"color": "green"},
+	{"name": "every time", "size": 4116,"color": "green"},
+    {"name": "don't want","color": "green"}
+   ]},
+   {"name": "Topic 2","color": "green",
+   "children": [
+           
+    {"name": "waste time","color": "green"},
+    {"name": "even though","color": "green"},
+	{"name": "came back", "size": 4116,"color": "green"},
+	{"name": "told us", "size": 4116,"color": "green"},
+	{"name": "service terrible", "size": 4116,"color": "green"},
+	{"name": "dining experience", "size": 4116,"color": "green"},
+	{"name": "waitress came", "size": 4116,"color": "green"},
+	{"name": "terrible service", "size": 4116,"color": "green"},
+    {"name": "took forever","color": "green"}
+   ]
+  },
+  {
+   "name": "Tipic 3","color": "green",
+   "children": [
+            
+    {"name": "go back", "size": 1041,"color": "green"},
+    {"name": "mexican food", "size": 5176,"color": "green"},
+    {"name": "never go", "size": 449,"color": "green"},
+    {"name": "i've ever", "size": 5593,"color": "green"},
+    {"name": "taco bell", "size": 5534,"color": "green"},
+    {"name": "fast food", "size": 9201,"color": "green"},
+    {"name": "good food", "size": 19975,"color": "green"},
+    {"name": "would never", "size": 1116,"color": "green"},
+    {"name": "ever eaten", "size": 6006,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 4","color": "green",
+   "children": [
+           
+    {"name": "go back","color": "green"},
+	{"name": "minutes later", "size": 4116,"color": "green"},
+	{"name": "came back", "size": 4116,"color": "green"},
+    {"name": "restaurant week", "size": 1759,"color": "green"},
+    {"name": "never go", "size": 2165,"color": "green"},
+    {"name": "even though", "size": 586,"color": "green"},
+    {"name": "tell us", "size": 3331,"color": "green"},
+    {"name": "didn't seem", "size": 772,"color": "green"},
+    {"name": "food arrived", "size": 3322,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 5","color": "green",
+   "children": [
+           
+    {"name": "going back", "size": 4116,"color": "green"},
+	{"name": "like place", "size": 4116,"color": "green"},
+	{"name": "felt like", "size": 4116,"color": "green"},
+	{"name": "tasted like", "size": 4116,"color": "green"},
+	{"name": "customer service", "size": 4116,"color": "green"},
+	{"name": "wont going", "size": 4116,"color": "green"},
+    
+    {"name": "every time", "size": 1732,"color": "green"},
+    {"name": "i'm going", "size": 3623,"color": "green"},
+    {"name": "would good", "size": 10066,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 6","color": "green",
+   "children": [
+           
+    {"name": "another minutes", "size": 4116,"color": "green"},
+	{"name": "minutes later", "size": 4116,"color": "green"},
+	{"name": "waited minutes", "size": 4116,"color": "green"},
+	{"name": "minutes get", "size": 4116,"color": "green"},
+	{"name": "take order", "size": 4116,"color": "green"},
+	
+	{"name": "finally got", "size": 4116,"color": "green"},
+	{"name": "got food", "size": 4116,"color": "green"},
+	{"name": "took minutes", "size": 4116,"color": "green"},
+    {"name": "half hour", "size": 4116,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 7","color": "green",
+   "children": [
+         
+    {"name": "don't know", "size": 1082,"color": "green"},
+    {"name": "come back", "size": 1336,"color": "green"},
+    {"name": "tastes like", "size": 319,"color": "green"},
+    
+    {"name": "cheese curds", "size": 2822,"color": "green"},
+	{"name": "state street", "size": 2822,"color": "green"},
+    {"name": "decided try", "size": 9983,"color": "green"},
+	{"name": "hot sauce", "size": 9983,"color": "green"},
+    {"name": "mac cheese", "size": 2213,"color": "green"},
+    {"name": "pad thai", "size": 1681,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 8","color": "green",
+   "children": [
+           
+    {"name": "one star", "size": 1616,"color": "green"},
+    {"name": "won't back", "size": 1027,"color": "green"},
+    {"name": "wait staff", "size": 3891,"color": "green"},
+    
+    {"name": "pretty good", "size": 2893,"color": "green"},
+    {"name": "food poisoning", "size": 5103,"color": "green"},
+    {"name": "three times", "size": 3677,"color": "green"},
+    {"name": "somewhere else", "size": 781,"color": "green"},
+    {"name": "don't get", "size": 4141,"color": "green"},
+    {"name": "feel like", "size": 933,"color": "green"}
+  
+   ]
+  },
+  {
+   "name": "Topic 9","color": "green",
+   "children": [
+           
+    {"name": "i've ever", "size": 2105,"color": "green"},
+    {"name": "ice cream", "size": 1316,"color": "green"},
+    {"name": "first time", "size": 3151,"color": "green"},
+    {"name": "would recommend", "size": 3770,"color": "green"},
+   
+    {"name": "fried rice", "size": 4839,"color": "green"},
+    {"name": "spring rolls", "size": 1756,"color": "green"},
+    {"name": "second time", "size": 4268,"color": "green"},
+    {"name": "could give", "size": 1821,"color": "green"},
+    {"name": "recommend place", "size": 5833,"color": "green"}
+   ]
+  },
+  {
+   "name": "Topic 10","color": "green",
+   "children": [
+           
+    {"name": "tasted like", "size": 8258,"color": "green"},
+    {"name": "last night", "size": 10001,"color": "green"},
+    {"name": "much better", "size": 8217,"color": "green"},
+    {"name": "grocery store", "size": 12555,"color": "green"},
+    {"name": "looked like", "size": 2324,"color": "green"},
+    {"name": "mashed potatoes", "size": 10993,"color": "green"},
+    
+    {"name": "quality food", "size": 335,"color": "green"},
+    {"name": "side salad", "size": 383,"color": "green"},
+    {"name": "waste money", "size": 874,"color": "green"}
+   ]
+  },
+  {
+   "name": "star: 5","color": "red",
+   "children": [
+    {
+     "name": "Topic 1","color": "red",
+     "children": [
+	        
+      {"name": "really good","color": "red", "size": 1302},
+      {"name": "chinese food","color": "red", "size": 24593},
+      {"name": "love love", "color": "red","size": 652},
+      {"name": "food good", "color": "red","size": 636},
+	  {"name": "good food", "color": "red","size": 636},
+	  {"name": "spring rolls","color": "red", "size": 636},
+	  {"name": "pad thai", "color": "red","size": 636},
+	  {"name": "fried rice","color": "red", "size": 636},
+      {"name": "don't know", "color": "red","size": 6703}
+     ]
+    },
+    {
+     "name": "Topic 2","color": "red",
+     "children": [
+	       
+      {"name": "highly recommend", "color": "red","size": 2138},
+      {"name": "great service","color": "red", "size": 3824},
+      {"name": "great food", "color": "red","size": 1353},
+      {"name": "love place","color": "red", "size": 4665},
+      {"name": "recommend place","color": "red", "size": 2649},
+      {"name": "food great","color": "red", "size": 2832},
+      {"name": "great dane","color": "red", "size": 4896},
+      {"name": "great place", "color": "red","size": 7862},
+      {"name": "i've never","color": "red", "size": 8435}
+     ]
+    },
+    {
+     "name": "Topic 3","color": "red",
+     "children": [
+	         
+      {"name": "one favorite", "color": "red","size": 20544},
+      {"name": "one best", "color": "red","size": 19788},
+      {"name": "go wrong","color": "red", "size": 10349},
+      {"name": "restaurant madison","color": "red", "size": 3301},
+      {"name": "can't go", "color": "red","size": 19382},
+      {
+       "name": "i've never","color": "red"
+      
+      },
+      {"name": "restaurants madison","color": "red", "size": 11275},
+      {"name": "favorite places", "color": "red","size": 7147},
+      {"name": "favorite restaurants","color": "red", "size": 9930}
+     ]
+    },
+    {
+     "name": "Topic 4","color": "red",
+     "children": [
+	         
+      {"name": "gluten free","color": "red", "size": 2313},
+	  {"name": "pork belly", "color": "red","size": 636},
+	  {"name": "wine list", "color": "red","size": 636},
+	  {"name": "indian food","color": "red", "size": 636},
+	  {"name": "lunch buffet","color": "red", "size": 636},
+	  {"name": "everything menu","color": "red", "size": 636},
+      {"name": "menu items","color": "red", "size": 1880},
+      {"name": "duck fat", "color": "red","size": 1701},
+      {"name": "well worth","color": "red", "size": 1117}
+     ]
+    },
+    {
+     "name": "Topic 5","color": "red",
+     "children": [
+	         
+      {"name": "cheese curds", "color": "red","size": 20859},
+	  {"name": "old fashioned", "color": "red","size": 636},
+	  {"name": "fish fry", "color": "red","size": 636},
+	  {"name": "beer selection","color": "red", "size": 636},
+	  {"name": "mac cheese","color": "red", "size": 636},
+	  {"name": "fried cheese","color": "red", "size": 636},
+	  {"name": "best burger","color": "red", "size": 636},
+      {"name": "happy hour","color": "red", "size": 4614},
+      {"name": "late night", "color": "red","size": 10530}
+     ]
+    },
+    {
+     "name": "Topic 6","color": "red",
+	         
+     "children": [
+      {
+       "name": "go back","color": "red"
+      },
+      {
+       "name": "can't wait","color": "red"
+      },
+      {
+       "name": "wait go","color": "red"
+      },
+      {"name": "come back","color": "red", "size": 1286},
+   
+      {"name": "i've ever","color": "red", "size": 2490},
+      {"name": "one best","color": "red", "size": 5248},
+      {"name": "next time", "color": "red","size": 4190},
+      {"name": "definitely go", "color": "red","size": 2581},
+      {"name": "first time", "color": "red","size": 2023}
+     ]
+    },
+    {"name": "Topic 7", "color": "red","size": 16540,
+	        
+     "children": [
+      {"name": "great food", "color": "red","size": 20859},
+	  {"name": "food great", "color": "red","size": 636},
+	  {"name": "great place", "color": "red","size": 636},
+	  {"name": "great service", "color": "red","size": 636},
+	  {"name": "friendly staff","color": "red", "size": 636},
+	  {"name": "place great", "color": "red","size": 636},
+	  {"name": "great atmosphere", "color": "red","size": 636},
+      {"name": "service great", "color": "red","size": 4614},
+      {"name": "good food","color": "red", "size": 10530}
+     ]},
+	{"name": "Topic 8","color": "red", "size": 16540,
+     "children": [
+	         
+      {"name": "every time", "color": "red","size": 20859},
+	  {"name": "love place", "color": "red","size": 636},
+	  {"name": "time go", "color": "red","size": 636},
+	  {"name": "i've tried","color": "red", "size": 636},
+	  {"name": "state street","color": "red", "size": 636},
+	  {"name": "i've ever","color": "red", "size": 636},
+	  {"name": "make sure", "color": "red","size": 636},
+      {"name": "every single","color": "red", "size": 4614},
+      {"name": "lunch dinner","color": "red", "size": 10530}
+     ]},
+	{"name": "Topic 9","color": "red", "size": 16540,
+     "children": [
+	      
+      {"name": "mexican food","color": "red", "size": 20859},
+	  {"name": "i've ever", "color": "red","size": 636},
+	  {"name": "best pizza","color": "red", "size": 636},
+	  {"name": "french toast","color": "red", "size": 636},
+	  {"name": "bloody mary","color": "red", "size": 636},
+	  {"name": "thin crust","color": "red", "size": 636},
+	  {"name": "authentic mexican","color": "red", "size": 636},
+      {"name": "farmers market","color": "red", "size": 4614},
+      {"name": "breakfast sandwich","color": "red", "size": 10530}
+     ]},
+	{"name": "Topic 10", "color": "red","size": 16540,
+     "children": [
+	         
+      {"name": "going back", "color": "red","size": 20859},
+	  {"name": "first time","color": "red", "size": 636},
+	  {"name": "next time","color": "red", "size": 636},
+	  {"name": "pulled pork", "color": "red","size": 636},
+	  {"name": "ice cream","color": "red", "size": 636},
+	  {"name": "come back","color": "red", "size": 636},
+	  {"name": "feel like","color": "red", "size": 636},
+      {"name": "time i'm","color": "red", "size": 4614},
+      {"name": "definitely back","color": "red", "size": 10530}
+     ]}
+   ]
+  }
+ ]
+}
