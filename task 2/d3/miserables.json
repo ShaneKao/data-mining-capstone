@@ -1,20 +1,20 @@
 {
   "nodes":  [
-    { "name": "French",             "group":  3},
-    { "name": "Thai",           "group":  3},	
-    { "name": "Italian",       "group":  3},
+    { "name": "French",             "group":  0},
+    { "name": "Thai",           "group":  4},	
+    { "name": "Italian",       "group":  2},
     { "name": "American (New)",    "group":  3 },
-    { "name": "Chinese",       "group":  3 },
-    { "name": "Greek",           "group":  3 },
-    { "name": "Indian",       "group":  3 },
-    { "name": "Latin American",           "group":  3 },
-    { "name": "Korean",              "group":  3 },
-    { "name": "Russian",             "group":  3 },
-    { "name": "Irish",            "group":  3 },
-    { "name": "Peruvian",            "group":  3 },
-    { "name": "Mexican",         "group":  3 },
-    { "name": "American (Traditional)",            "group":  3 },
-    { "name": "Japanese",            "group":  3 }
+    { "name": "Chinese",       "group":  4 },
+    { "name": "Greek",           "group":  0 },
+    { "name": "Indian",       "group":  0 },
+    { "name": "Latin American",           "group":  0 },
+    { "name": "Korean",              "group":  0 },
+    { "name": "Russian",             "group":  0 },
+    { "name": "Irish",            "group":  0 },
+    { "name": "Peruvian",            "group":  0 },
+    { "name": "Mexican",         "group":  2 },
+    { "name": "American (Traditional)",            "group":  1 },
+    { "name": "Japanese",            "group":  4 }
   ],
 
   "links":  [
