@@ -1,10 +1,10 @@
 {
   "nodes":  [
     { "name": "French",             "group":  0},
-    { "name": "Thai",           "group":  4},	
+    { "name": "Thai",           "group":  0},	
     { "name": "Italian",       "group":  2},
-    { "name": "American (New)",    "group":  3 },
-    { "name": "Chinese",       "group":  4 },
+    { "name": "American (New)",    "group":  1 },
+    { "name": "Chinese",       "group":  2 },
     { "name": "Greek",           "group":  0 },
     { "name": "Indian",       "group":  0 },
     { "name": "Latin American",           "group":  0 },
@@ -13,8 +13,8 @@
     { "name": "Irish",            "group":  0 },
     { "name": "Peruvian",            "group":  0 },
     { "name": "Mexican",         "group":  2 },
-    { "name": "American (Traditional)",            "group":  1 },
-    { "name": "Japanese",            "group":  4 }
+    { "name": "American (Traditional)",            "group":  3 },
+    { "name": "Japanese",            "group":  0 }
   ],
 
   "links":  [
